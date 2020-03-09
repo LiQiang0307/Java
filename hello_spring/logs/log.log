@@ -1,0 +1,12 @@
+2020-03-09 22:12:19,904 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] -Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ac736f: startup date [Mon Mar 09 22:12:19 CST 2020]; root of context hierarchy
+2020-03-09 22:12:20,001 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] -Loading XML bean definitions from class path resource [spring-context.xml]
+2020-03-09 22:12:20,355 INFO [com.liqiang.hello.spring.service.MyTest] -info 级别的日志
+2020-03-09 22:12:20,355 WARN [com.liqiang.hello.spring.service.MyTest] -warn 级别的日志
+2020-03-09 22:12:20,355 ERROR [com.liqiang.hello.spring.service.MyTest] -error 级别的日志
+2020-03-09 22:12:20,357 INFO [com.liqiang.hello.spring.service.MyTest] -message is : 测试1 测试2
+2020-03-09 22:15:39,611 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] -Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ac736f: startup date [Mon Mar 09 22:15:39 CST 2020]; root of context hierarchy
+2020-03-09 22:15:39,707 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] -Loading XML bean definitions from class path resource [spring-context.xml]
+2020-03-09 22:15:40,098 INFO [com.liqiang.hello.spring.service.MyTest] -info 级别的日志
+2020-03-09 22:15:40,101 WARN [com.liqiang.hello.spring.service.MyTest] -warn 级别的日志
+2020-03-09 22:15:40,102 ERROR [com.liqiang.hello.spring.service.MyTest] -error 级别的日志
+2020-03-09 22:15:40,106 INFO [com.liqiang.hello.spring.service.MyTest] -message is : 测试1 测试2
